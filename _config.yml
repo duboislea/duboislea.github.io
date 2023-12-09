@@ -22,8 +22,8 @@ author: Léa Dubois
 navbar-links:
   About Me: "aboutme"
   Ressources:
-    - "aboutme"
-    - "aboutme"
+    - Mécanique quantique : "aboutme"
+    - Recherche : "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
