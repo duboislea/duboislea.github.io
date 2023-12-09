@@ -22,7 +22,7 @@ author: Léa Dubois
 navbar-links:
   About Me: "aboutme"
   Ressources:
-    - Mécanique quantique : "aboutme"
+    - Mécanique quantique : "mecaniquequantique"
     - Recherche : "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
