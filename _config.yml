@@ -21,6 +21,9 @@ author: Léa Dubois
 
 navbar-links:
   About Me: "aboutme"
+  Ressources:
+    - "aboutme"
+    - "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
