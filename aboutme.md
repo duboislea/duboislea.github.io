@@ -1,5 +1,4 @@
 ---
-usemathjax: true
 layout: page
 title: A propos
 subtitle: A propos
