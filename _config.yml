@@ -260,7 +260,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-usemathjax: true
 
 kramdown:
   input: GFM

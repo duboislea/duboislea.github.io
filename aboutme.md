@@ -2,6 +2,7 @@
 layout: page
 title: A propos
 subtitle: A propos
+usemathjax: true
 ---
 
 ### Rapide présentations
