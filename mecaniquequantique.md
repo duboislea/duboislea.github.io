@@ -11,7 +11,7 @@ Vous trouverez sur cette page les énoncés et les corrigés des TD de Mécaniqu
 {: .box-warning}
 **Attention:** Il se peut que les corrigés présentent des coquilles. Dans ce cas, n'hésitez pas à me connecter ! 
 
-| **TD1 : Puit de potentiel** | [Enoncé](https://github.com/duboislea/duboislea.github.io/tree/master/assets/pdf/Correction_TD1.pdf) | Previous number |
+| **TD1 : Puit de potentiel** | [Enoncé](/assets/pdf/Correction_TD1.pdf) | Previous number |
 | **TD2 : Effet tunnel** | Six | Four |
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
